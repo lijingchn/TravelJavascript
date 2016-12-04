@@ -1,2 +1,2 @@
 ## TravelJavascript
-~There record my study of JavaScript~
+*There record my study of JavaScript*
